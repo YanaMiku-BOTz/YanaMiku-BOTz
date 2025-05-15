@@ -20,18 +20,20 @@
 ---
 
 ### 📝 **Biodata**
-For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 
-```json
-{
-  "Fullname": "Iyuzaki Yanagi",
-  "Nickname": "Iyuzaki",
-  "Status": "Student",
-  "Location": "Tegal, Jawa Tengah, Indonesia",
-  "Age": "Limited Information",
-  "Birthday": "Undisclosed"
-}
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" alt="Student Badge"/>
+  <img src="https://img.shields.io/badge/Location-Tegal,%20Jawa%20Tengah,%20Indonesia-green?style=flat-square" alt="Location Badge"/>
+</p>
+
+| Field       | Info                                 |
+|-------------|--------------------------------------|
+| **Full Name** | Iyuzaki Yanagi                       |
+| **Username**  | Iyuzaki                              |
+| **Occupation**| Student                              |
+| **Location**  | Tegal, Jawa Tengah, Indonesia        |
+
+> 💬 For more info, visit my [GitHub Profile](https://github.com/YanaMiku-BOTz)
 
 ---
 
