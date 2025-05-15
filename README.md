@@ -63,6 +63,10 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 ### 💖 **Support Me**
 If you enjoy my work, consider supporting me with a donation!
 <p align="center"> 
-  <a href="https://saweria.co/dimst"> <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250515_190701.jpg?raw=true" /> </a> 
-  <a href="https://trakteer.id/ssa.api"> <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250515_190646.jpg?raw=true" /> </a>
+  <a href="https://saweria.co/dimst">
+    <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250515_190701.jpg?raw=true" width="99" height="28" />
+  </a> 
+  <a href="https://trakteer.id/ssa.api">
+    <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250515_190646.jpg?raw=true" width="99" height="28" />
+  </a>
 </p>
