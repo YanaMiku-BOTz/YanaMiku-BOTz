@@ -36,6 +36,10 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/YanaMiku-Project/database-public/refs/heads/main/image/gset79KMmt0sd.jpg" alt="animated banner" />
+</p>
+
+<p align="center">
   <strong>♡･｡°✩ Sia - Snowman ✩°｡･♡</strong><br><br>
   01:13 ━━━━━━━❍─────── 02:52<br>
   ↻&nbsp;&nbsp;&nbsp;&nbsp;⊲&nbsp;&nbsp;&nbsp;&nbsp;Ⅱ&nbsp;&nbsp;&nbsp;&nbsp;⊳&nbsp;&nbsp;&nbsp;&nbsp;↺
