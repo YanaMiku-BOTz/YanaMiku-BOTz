@@ -36,7 +36,6 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 ---
 
 ### **🎵 Favorite Music**
-Check out what I’m listening to right now! 🎧
 
 <p align="center">
   <strong>♡･｡°✩ Sia - Snowman ✩°｡･♡</strong><br><br>
