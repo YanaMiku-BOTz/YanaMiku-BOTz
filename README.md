@@ -21,11 +21,6 @@
 
 ### 📝 **Biodata**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Student-blue?style=flat-square" alt="Student Badge"/>
-  <img src="https://img.shields.io/badge/Location-Tegal,%20Jawa%20Tengah,%20Indonesia-green?style=flat-square" alt="Location Badge"/>
-</p>
-
 | Field       | Info                                 |
 |-------------|--------------------------------------|
 | **Full Name** | Iyuzaki Yanagi                       |
