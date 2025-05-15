@@ -14,7 +14,7 @@
 - Currently a student  
 - Still a beginner in coding  
 - Not a master yet, but working on it!  
-- I love music and anime, especially loli 😋
+- I love music, game and anime
 </p>
 
 ---
@@ -37,8 +37,6 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 
 ### **🎵 Favorite Music**
 Check out what I’m listening to right now! 🎧
-<p align="center">
-  <a href="https://open.spotify.com/track/2z8lRY3lqWbXxhHFbIpHlB" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 <p align="center">
   <strong>♡･｡°✩ Sia - Snowman ✩°｡･♡</strong><br><br>
