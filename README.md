@@ -45,15 +45,15 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 
 <h2 align="center">📊 Stats</h2> 
   <div align="center"> 
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Im-Dims&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Im-Dims&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YanaMiku-BOTz&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=YanaMiku-BOTz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> 
   <br/> 
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Im-Dims&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YanaMiku-BOTz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
 </div>
 
 ### 🌐 **Find Me on Social Media**
 <p align="center"> 
-  <a href="https://instagram.com/dims_t11"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
-  <a href="https://www.youtube.com/@Dims_senpai"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
-  <a href="https://wa.me/6281398274790"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
+  <a href="https://instagram.com/yanamiku.shop"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> 
+  <a href="https://www.youtube.com/@IyuzakiYanagi"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
+  <a href="https://wa.me/6285793589243"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 </p>
