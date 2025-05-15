@@ -59,3 +59,10 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
   <a href="https://www.youtube.com/@IyuzakiYanagi"> <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" /> </a> 
   <a href="https://wa.me/6285793589243"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> 
 </p>
+
+### 💖 **Support Me**
+If you enjoy my work, consider supporting me with a donation!
+<p align="center"> 
+  <a href="https://saweria.co/dimst"> <img src="https://img.shields.io/badge/Donate-Saweria-ff3e00?style=for-the-badge&logo=steam&logoColor=white" /> </a> 
+  <a href="https://trakteer.id/ssa.api"> <img src="https://img.shields.io/badge/Donate-Trakteer-4B9F4A?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
+</p>
