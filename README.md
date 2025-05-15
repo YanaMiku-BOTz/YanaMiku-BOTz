@@ -36,7 +36,7 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YanaMiku-Project/database-public/refs/heads/main/image/gset79KMmt0sd.jpg" alt="animated banner" />
+  <img src="https://raw.githubusercontent.com/YanaMiku-Project/database-public/refs/heads/main/image/aee4ebd6f6af3b0dd6f83145bf0b60ae.jpg" alt="animated banner" />
 </p>
 
 <p align="center">
