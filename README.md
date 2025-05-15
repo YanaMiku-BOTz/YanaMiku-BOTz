@@ -35,24 +35,10 @@ For more info, visit my [GitHub profile](https://github.com/YanaMiku-BOTz).
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img 
-    src="https://raw.githubusercontent.com/YanaMiku-Project/database-public/refs/heads/main/image/aee4ebd6f6af3b0dd6f83145bf0b60ae.jpg" 
-    alt="animated banner" 
-    style="width: 40%; margin-right: 20px;"
-  />
-  <div>
-    <p style="margin: 0;">
-      <strong>♡･｡°✩ Sia - Snowman ✩°｡･♡</strong><br><br>
-      01:13 ━━━━━━━❍─────── 02:52<br>
-      ↻&nbsp;&nbsp;&nbsp;&nbsp;⊲&nbsp;&nbsp;&nbsp;&nbsp;Ⅱ&nbsp;&nbsp;&nbsp;&nbsp;⊳&nbsp;&nbsp;&nbsp;&nbsp;↺
-    </p>
-  </div>
-</div>
-
+### **🎵 Favorite Music**
+Check out what I’m listening to right now! 🎧
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YanaMiku-Project/database-public/refs/heads/main/image/aee4ebd6f6af3b0dd6f83145bf0b60ae.jpg" alt="animated banner" />
-</p>
+  <a href="https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq?si=VHZwpb-YQTiKipUYH4N1JQ&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a></p>
 
 <p align="center">
   <strong>♡･｡°✩ Sia - Snowman ✩°｡･♡</strong><br><br>
