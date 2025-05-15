@@ -6,7 +6,7 @@
   <img src="https://github.com/YanaMiku-Project/database-public/blob/main/gif/nakano-miku.gif?raw=true" alt="animated banner" />
 </p>
 
-<h3 align="center">Hi there! I'm Dims 👋</h3>
+<h3 align="center">Hi there! I'm YanaMiku 👋</h3>
 
 <p align="center">
   I'm a passionate learner, always excited to explore new things. I may be a beginner, but I'm determined to keep improving every day! 🚀
