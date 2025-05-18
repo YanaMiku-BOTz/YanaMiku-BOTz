@@ -101,3 +101,32 @@ I build bots, fix bugs, and help people automate their digital lives.
     <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250515_190646.jpg?raw=true" width="99" height="28" alt="Trakteer" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <h2>List Produk YanaMiku</h2>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250518_213938.jpg?raw=true" width="150"><br>
+        <strong>Script Premium V2</strong><br>
+        💰 Rp 120.000 <br>
+        <a href="https://wa.me/p/8006839899331461/6285793589243" target="_blank">🔍 More Details</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250518_214034.jpg?raw=true" width="150"><br>
+        <strong>ChatBot AI Logic - MD</strong><br>
+        💰 Rp 100.000 <br>
+        <a href="https://wa.me/p/9740116149359656/6285793589243" target="_blank">🔍 More Details</a>
+      </td>
+      <td align="center">
+        <img src="https://github.com/YanaMiku-Project/database-public/blob/main/image/20250518_214021.jpg?raw=true" width="150"><br>
+        <strong>Script Bot Orderkuota V2</strong><br>
+        💰 Rp 50.000 <br>
+        <a href="https://wa.me/p/7716561028365524/6285793589243" target="_blank">🔍 More Details</a>
+      </td>
+    </tr>
+  </table>
+</div>
