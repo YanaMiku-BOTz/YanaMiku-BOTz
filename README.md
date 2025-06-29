@@ -70,8 +70,8 @@ I build bots, fix bugs, and help people automate their digital lives.
 
 ## 🌐 Website & Portfolio
 
-* 🔗 Website: [yanamiku.dev](https://yanamiku.vercel.app)
-* 💼 Portfolio: *(coming soon)*
+* 🔗 Website: [Website!](https://yanamiku.vercel.app)
+* 💼 Portfolio: [Portfolio!](https://portfolio-yanamiku.vercel.app)
 
 ---
 
